@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://bintang-sair.github.io/trending/sitemap.xml
